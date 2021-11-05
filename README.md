@@ -1,8 +1,7 @@
 Hello, I’m @Nick-McMichael
-I've recently graduated with an Honours dergee in Computer Science, I'm currently seeking a job. 
-I owuld say my speciality is Machine Learning and Data Science, specifically with Python as this was basis of my thesis.
-I also have some experience in web development and am trying to extend my knowledge further with some web dev courses.
-I work well in a team and am very famailiar with Agile development methodoligies and for most of my undergrad I used C# and the .NET stack for windows application development.
+Software Engineer at MRI Software.
+Honours in Computer Science (Machine Learning and Data Science with Python).
+
 - 📫nick.a.mcmichael@gamil.com
 
 <!---
